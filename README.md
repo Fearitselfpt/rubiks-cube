@@ -1,2 +1,5 @@
-# rubiks-cube
-2nd Bachelor degree in Computer Science 3rd Year 2st Semester - Graphics and User Interfaces Final Project [2019/2020]
+# Graphics and User Interfaces
+
+Implementation of the Rubik's Cube in C, using a C development environment Code::Blocks
+
+# Created by Ricardo Belinha
